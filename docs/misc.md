@@ -11,6 +11,7 @@ sidebar_label: Misc
 - [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) - Recovered Link to a post by /u/huldre99.
 - [scenerules](https://scenerules.org/) - NFOs with rules and guidelines for scene releasing standards.
 - [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
+- [ReadFarWorld](http://www.readfarworld.com/) - Learning platform like never before, You can learn everything daily.
 - [TheWarezFolder](http://thewarezfolder.com/) - Fairly out of date categorised list of warez sites.
 - [Familienforum.biz](http://www.familienforum.biz/) - Sky cracking news, and other topics.
 - [Multiup](https://multiup.org/) - Website which allows you to upload files to several different file hosting websites.
